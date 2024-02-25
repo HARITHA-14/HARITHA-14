@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haritha Sri</h1>
 <h3 align="center">A passionate Data Science Aspirant</h3>
-(img align="right" alt="Coding" width="400" src="https://www.pngitem.com/middle/hhJbhmh_programming-computer-code-png-transparent-png/#google_vignette")
+<img align="right" alt="Coding" width="400" src="https://www.pngitem.com/middle/hhJbhmh_programming-computer-code-png-transparent-png/#google_vignette">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haritha-14&label=Profile%20views&color=0e75b6&style=flat" alt="haritha-14" /> </p>
 
